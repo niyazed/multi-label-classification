@@ -7,6 +7,7 @@
     <br>
 </p>
 <br>
-<p align="center">
-   > Blockquotes
-</p>
+
+> In this project, multi-label classification is applied to predict the genre of a movie using its poster image!
+
+
