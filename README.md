@@ -8,6 +8,6 @@
 </p>
 <br>
 
-> In this project, multi-label classification is applied to predict the genre of a movie using its poster image!
+> In this project, multi-label classification is applied to predict the genre of a movie/tv-series using its poster image!
 
 
